@@ -18,7 +18,7 @@ a **Flask REST API**, version-controlled on **GitHub**, and deployed live on
 | **Assignment Number** | Assignment - 10 |
 | **Email Address** | adlakaadish@gmail.com |
 | **GitHub Repository** | https://github.com/AADISHADLAK/MPONLINE-Assignment-10 |
-| **Deployment URL** |https://mponline-assignment-10.onrender.com|
+| **Render Deployment URL** |https://mponline-assignment-10.onrender.com|
 
 ---
 
